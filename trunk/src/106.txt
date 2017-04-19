@@ -1,2 +1,7 @@
 test file
+<<<<<<< HEAD
 this line add by pan
+=======
+
+hello
+>>>>>>> origin/master
