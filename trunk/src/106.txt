@@ -1,9 +1,2 @@
-test file
-<<<<<<< HEAD
-this line add by pan
-=======
-
-hello
->>>>>>> origin/master
-test file
-added by Tim Lee
+test file jinwi
+fhfhfhtftfh
